@@ -172,6 +172,8 @@ ul {
     display: flex;
     flex-direction: column;
     align-items: center;
+    padding-left: 20px;
+    padding-right: 20px;
   }
   main .differnce .flex .item + .item {
     margin-top: 47px;
@@ -206,6 +208,7 @@ ul {
     border-radius: 39px;
     height: 39px;
     width: 67px;
+    margin-right: 15px;
   }
   main .differnce .flex .item .number-and-head-p .head-p p {
     font-weight: 700;
