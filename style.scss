@@ -92,13 +92,13 @@ ul {
       width: 25px;
     }
   }
-
+  
   main {
     .hero {
       display: flex;
       flex-direction: column;
       align-items: center;
-      padding: 0px 28px 93px 29px;
+      padding: 0px 8px 93px 9px;
 
       .image {
         width: 318px;
@@ -222,7 +222,7 @@ ul {
             background: #fff0ec;
             border-radius: 39px 0px 0px 39px;
             height: 39px;
-            width: 359px;
+            // width: 359px;
 
             .number {
               font-weight: 700;

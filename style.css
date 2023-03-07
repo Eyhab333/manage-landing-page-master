@@ -89,7 +89,7 @@ ul {
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding: 0px 28px 93px 29px;
+    padding: 0px 8px 93px 9px;
   }
   main .hero .image {
     width: 318px;
@@ -192,7 +192,6 @@ ul {
     background: #fff0ec;
     border-radius: 39px 0px 0px 39px;
     height: 39px;
-    width: 359px;
   }
   main .differnce .flex .item .number-and-head-p .number {
     font-weight: 700;
